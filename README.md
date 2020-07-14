@@ -11,3 +11,6 @@ The color boundaries were set using color.py in which we set range of HSV values
 I'm using a MacOS and Spyder to run my project. This code will be compatable with any game on MacOS. If you are using WindowsOS then you might have modify the directkeys.py file
 
 ![](Screenshot.png)
+
+
+// Change the Spelling of Python in the start of the Readme file! And remaining congratulations.
